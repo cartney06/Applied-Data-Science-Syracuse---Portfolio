@@ -12,8 +12,8 @@ Collection of assignments and projects completed in the ADS program at Syracuse 
 ### Program Overview Document
 ### Program Projects
   #### - Project 1
-  #### Project 2
-  #### Project 3
-  #### Project 4
-  #### Project 5
+  #### - Project 2
+  #### - Project 3
+  #### - Project 4
+  #### - Project 5
 

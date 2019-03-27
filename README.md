@@ -2,7 +2,7 @@
 Collection of assignments and projects completed in the ADS program at Syracuse University
 ## Overview
 **Student:** Cartney Thompson <br />
-**Program/School:** Applied Data Science - iSchool - Syracuse University <br />
+**Program/School:** Applied Data Science - Syracuse University School of Information Studies <br />
 **SUID:** 262769286 <br />
 **e-mail:** cdthomps@syr.edu
 

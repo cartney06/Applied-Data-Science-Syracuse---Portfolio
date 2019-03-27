@@ -3,3 +3,5 @@ Collection of assignments and projects completed in the ADS program at Syracuse 
 
 ### Cartney Thompson
 ### Applied Data Science - iSchool - Syracuse University
+
+

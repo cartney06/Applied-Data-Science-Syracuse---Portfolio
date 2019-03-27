@@ -1,5 +1,5 @@
 # Applied Data Science @Syracuse - Portfolio
-Collection of assignments and projects completed in the ADS program at Syracuse University
+Collection of assignments and projects completed in the Applied Data Science program at Syracuse University
 ## Overview
 **Student:** Cartney Thompson <br />
 **Program/School:** Applied Data Science - Syracuse University - School of Information Studies <br />

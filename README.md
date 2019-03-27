@@ -8,4 +8,6 @@ Collection of assignments and projects completed in the ADS program at Syracuse 
 
 ## Table of Contents
 
+#### Professional Resume
+#### Project 1
 

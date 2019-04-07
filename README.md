@@ -13,7 +13,7 @@ Collection of assignments and projects completed in the Applied Data Science pro
 ### Program Projects
   * #### Noise Complaints in New York City
   * #### Predicting New York City Restaurant Sanitation Grades
-  * #### Group Telcom Project
+  * #### Predicting Churn for Telco
   * #### Beer Recommendation System
   * #### Nike Kaepernick Campaign
 

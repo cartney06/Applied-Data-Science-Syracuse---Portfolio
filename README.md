@@ -11,9 +11,9 @@ Collection of assignments and projects completed in the Applied Data Science pro
 ### Professional Resume
 ### Program Overview Document
 ### Program Projects
-  * #### Project 1
-  * #### Project 2
-  * #### Project 3
-  * #### Project 4
-  * #### Project 5
+  * #### Noise Complaints in New York City
+  * #### Predicting New York City Restaurant Sanitation Grades
+  * #### Group Telcom Project
+  * #### Beer Recommendation System
+  * #### Nike Kaepernick Campaign
 

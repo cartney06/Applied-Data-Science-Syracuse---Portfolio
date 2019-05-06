@@ -12,7 +12,9 @@ Collection of assignments and projects completed in the Applied Data Science pro
 
 ### [Program Overview Document](https://github.com/cartney06/Applied-Data-Science-Syracuse---Portfolio/blob/master/Program%20Overview/CThompson%20-%20Portfolio%20Milestone.docx?raw=true)
 
-### [Program Overview Presentation](https://github.com/cartney06/Applied-Data-Science-Syracuse---Portfolio/blob/master/Program%20Overview/CartneyThompson_PortfolioMilestoneDeck.pptx?raw=true)
+### [Program Overview Presentation Deck](https://github.com/cartney06/Applied-Data-Science-Syracuse---Portfolio/blob/master/Program%20Overview/CartneyThompson_PortfolioMilestoneDeck.pptx?raw=true)
+
+### [Program Overview Presentation Video]()
 
 ### Program Projects
 #### IST 652 - Scripting for Data Analysis 

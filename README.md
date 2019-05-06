@@ -16,9 +16,14 @@ Collection of assignments and projects completed in the Applied Data Science pro
 
 ### Program Projects
   * #### IST 652 - Scripting for Data Analysis 
-  
-         Noise Complaints in New York City
-  * #### IST 565 - Data Mining - Predicting New York City Restaurant Sanitation Grades
-  * #### IST 718 - Advanced Information Analytics - Recommending Beer
-  * #### IST 736 - Text Mining - Nike Kaepernick Campaign
+         [Noise Complaints in New York City](https://github.com/cartney06/Applied-Data-Science-Syracuse---Portfolio/tree/master/Projects/IST%20652)
+         
+  * #### IST 565 - Data Mining
+         [Predicting New York City Restaurant Sanitation Grades](https://github.com/cartney06/Applied-Data-Science-Syracuse---Portfolio/tree/master/Projects/IST%20565)
+         
+  * #### IST 718 - Advanced Information Analytics
+         [Recommending Beer](https://github.com/cartney06/Applied-Data-Science-Syracuse---Portfolio/tree/master/Projects/IST%20718)
+         
+  * #### IST 736 - Text Mining 
+         [Nike Kaepernick Campaign](https://github.com/cartney06/Applied-Data-Science-Syracuse---Portfolio/tree/master/Projects/IST%20736)
 

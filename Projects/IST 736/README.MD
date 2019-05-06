@@ -9,8 +9,4 @@ In this project, I examine Nike’s brand sentiment on Twitter prior to the laun
 
 ## Required Tools
 Python
-  * Pandas
-  * #### Seaborn
-  * #### Sklearn
-  * #### NLTK
-  * #### itertools, collections, wordcloud
+Packages needed: Pandas, Seaborn, Sklearn, NLTK, itertools, collections, & wordcloud

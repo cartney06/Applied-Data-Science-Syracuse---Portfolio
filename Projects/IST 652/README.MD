@@ -5,6 +5,6 @@
 **e-mail:** cdthomps@syr.edu
 
 ## Project Description
-An exploratory data analysis of noise complaints in New York City. Answers such questions of when and where do they occur most often.
+An exploratory data analysis of noise complaints in New York City. Answers such questions as when and where do noise complaints occur most often.
 ## Required Tools
 Python

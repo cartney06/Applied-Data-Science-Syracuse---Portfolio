@@ -9,7 +9,8 @@ Collection of assignments and projects completed in the Applied Data Science pro
 ## Table of Contents
 
 ### Professional Resume
-[Professional Resume] (https://github.com/cartney06/Applied-Data-Science-Syracuse---Portfolio/blob/master/Resume/Resume-Cartney%20Thompson%20(2019_04).docx?raw=true)
+### Professional Resume (https://github.com/cartney06/Applied-Data-Science-Syracuse---Portfolio/blob/master/Resume/Resume-Cartney%20Thompson%20(2019_04).docx?raw=true)
+
 ### Program Overview Document
 ### Program Projects
   * #### IST 652 - Scripting for Data Analysis - Noise Complaints in New York City

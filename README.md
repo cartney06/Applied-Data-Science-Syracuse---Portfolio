@@ -17,7 +17,7 @@ Collection of assignments and projects completed in the Applied Data Science pro
 ### Program Projects
   * #### IST 652 - Scripting for Data Analysis 
   
-  Noise Complaints in New York City
+         Noise Complaints in New York City
   * #### IST 565 - Data Mining - Predicting New York City Restaurant Sanitation Grades
   * #### IST 718 - Advanced Information Analytics - Recommending Beer
   * #### IST 736 - Text Mining - Nike Kaepernick Campaign

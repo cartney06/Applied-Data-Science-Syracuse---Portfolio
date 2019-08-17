@@ -30,4 +30,4 @@ Collection of assignments and projects completed in the Applied Data Science pro
 [Nike Kaepernick Campaign](https://github.com/cartney06/Applied-Data-Science-Syracuse---Portfolio/tree/master/Projects/IST%20736)
 
 #### IST 719 - Information Visualization 
-[Commute Times in New York City](https://github.com/cartney06/Applied-Data-Science-Syracuse---Portfolio/tree/master/Projects/IST%20736)
+[Commute Times in New York City](https://github.com/cartney06/Applied-Data-Science-Syracuse---Portfolio/tree/master/Projects/IST%20719)

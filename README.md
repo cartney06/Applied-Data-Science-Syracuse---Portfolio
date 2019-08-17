@@ -29,3 +29,5 @@ Collection of assignments and projects completed in the Applied Data Science pro
 #### IST 736 - Text Mining 
 [Nike Kaepernick Campaign](https://github.com/cartney06/Applied-Data-Science-Syracuse---Portfolio/tree/master/Projects/IST%20736)
 
+#### IST 719 - Data Visualization 
+[Nike Kaepernick Campaign](https://github.com/cartney06/Applied-Data-Science-Syracuse---Portfolio/tree/master/Projects/IST%20736)

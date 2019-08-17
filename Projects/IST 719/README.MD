@@ -1,4 +1,4 @@
-# IST 719 - Data Visualization
+# IST 719 - Information Visualization
 **Student:** Cartney Thompson <br />
 **Program/School:** Applied Data Science - Syracuse University - School of Information Studies <br />
 **e-mail:** cdthomps@syr.edu

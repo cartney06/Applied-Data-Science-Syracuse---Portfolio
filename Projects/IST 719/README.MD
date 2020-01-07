@@ -8,7 +8,7 @@ We all know that commuting in New York City is a pain. This poster highlights th
 
 ## Poster Overview
 
-![Image of Commute_Poster](images/Commuting_in_NYC.PNG)
+![Image of Commute_Poster](images/Commuting_in_NYC.png)
 
 ## Required Tools
 R, Adobe Illustrator
